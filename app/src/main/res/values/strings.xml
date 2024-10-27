@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocateCrew</string>
+    <string name="channel_name">Location updates</string>
+    <string name="location_service_running">Location service is running</string>
+</resources>

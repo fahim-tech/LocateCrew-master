@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25426696708",
+    "project_id": "locatecrew-68668",
+    "storage_bucket": "locatecrew-68668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25426696708:android:2e64bdb15d191902e03351",
+        "android_client_info": {
+          "package_name": "com.example.locatecrew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0GWEdGK7SzHF-FDCVs224vdCLr1f1EqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
